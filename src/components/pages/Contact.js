@@ -5,7 +5,7 @@ import ContactUs from "../ContactUs";
 import ContactUsDetails from "../ContactUsDetails";
 import Footer from "../Footer";
 
-
+{/* This is a comment*/ }
 function Contact() {
   return (
     <div>
@@ -13,7 +13,7 @@ function Contact() {
 
       </ContactUsDetails>
       <ContactUs />
-    
+
       <Footer />
     </div>
   );
