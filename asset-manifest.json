@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/dancor_v2/static/css/main.6a47acbd.chunk.css",
+    "main.js": "/dancor_v2/static/js/main.ad60ce01.chunk.js",
+    "main.js.map": "/dancor_v2/static/js/main.ad60ce01.chunk.js.map",
+    "runtime-main.js": "/dancor_v2/static/js/runtime-main.11d0ea0d.js",
+    "runtime-main.js.map": "/dancor_v2/static/js/runtime-main.11d0ea0d.js.map",
+    "static/js/2.d276b15d.chunk.js": "/dancor_v2/static/js/2.d276b15d.chunk.js",
+    "static/js/2.d276b15d.chunk.js.map": "/dancor_v2/static/js/2.d276b15d.chunk.js.map",
+    "index.html": "/dancor_v2/index.html",
+    "static/css/main.6a47acbd.chunk.css.map": "/dancor_v2/static/css/main.6a47acbd.chunk.css.map",
+    "static/js/2.d276b15d.chunk.js.LICENSE.txt": "/dancor_v2/static/js/2.d276b15d.chunk.js.LICENSE.txt",
+    "static/media/Hero.css": "/dancor_v2/static/media/bg.cb9ee447.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11d0ea0d.js",
+    "static/js/2.d276b15d.chunk.js",
+    "static/css/main.6a47acbd.chunk.css",
+    "static/js/main.ad60ce01.chunk.js"
+  ]
+}
