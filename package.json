@@ -1,7 +1,7 @@
 {
   "name": "dancor_v2",
   "version": "0.1.0",
-  "homepage": "https://gitname.github.io/react-gh-pages",
+  "homepage": "https://gitname.github.io/dancor_v2",
   "private": true,
   "dependencies": {
     "@react-google-maps/api": "^2.2.0",
